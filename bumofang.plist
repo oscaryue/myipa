@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bumofang.bumofang</string>
+				<string>com.cmread.full</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>BuMoFang App download</string>
+				<string>App download</string>
 			</dict>
 		</dict>
 	</array>
